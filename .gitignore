@@ -1,0 +1,25 @@
+# 📌 Ignorar la carpeta de módulos de Node.js (
+node_modules/
+
+# 📌 Ignorar los archivos de configuración de dependencias
+package-lock.json
+package.json 
+
+# 📌 Ignorar archivos de bases de datos locales
+data/*.json
+database/*.json
+
+# 📌 Ignorar archivos de configuración del entorno
+.env
+
+# 📌 Ignorar logs y caché de Node.js
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 📌 Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# 📌 Ignorar archivos de producción (si usas TypeScript o transpilers)
+dist/

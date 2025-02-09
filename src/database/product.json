@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "Product 1",
+    "price": 250,
+    "description": "description 1",
+    "code": "code 1",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Product 2",
+    "price": 250,
+    "description": "description 1",
+    "code": "code 1",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Product 3",
+    "price": 250,
+    "description": "description 1",
+    "code": "code 1",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mouse Gamer",
+    "price": 50,
+    "description": "Mouse RGB con sensor óptico",
+    "code": "M001",
+    "status": true,
+    "stock": 20,
+    "category": "Periféricos",
+    "thumbnails": [
+      "mouse.jpg"
+    ]
+  }
+]
