@@ -26,6 +26,10 @@
       {
         "products": 106,
         "quantity": 1
+      },
+      {
+        "products": 106,
+        "quantity": 1
       }
     ]
   }

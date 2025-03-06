@@ -3,7 +3,7 @@ node_modules/
 
 # 📌 Ignorar los archivos de configuración de dependencias
 package-lock.json
-package.json 
+
 
 # 📌 Ignorar archivos de bases de datos locales
 data/*.json

@@ -50,5 +50,325 @@
     "thumbnails": [
       "mouse.jpg"
     ]
+  },
+  {
+    "id": 5,
+    "title": "iphone 16",
+    "price": 250,
+    "description": "256 GB COLOR GRAY",
+    "code": "M2563",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "iphone 8",
+    "price": 10,
+    "description": "64 GB COLOR black",
+    "code": "M2596",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "iphone xr",
+    "price": 10,
+    "description": "64 GB COLOR black",
+    "code": "M25988",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "iphone xr",
+    "price": 10,
+    "description": "64 GB COLOR black",
+    "code": "M25988",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "iphone xr",
+    "price": 10,
+    "description": "64 GB COLOR black",
+    "code": "M25988",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "notebook hp",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M258",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "notebook hp",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M258",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "notebook Dell",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "notebook",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "notebook lg",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "notebook lg",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "tablet",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "tablet",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "tablet",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "tablet",
+    "price": 1500,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "tablet",
+    "price": 25,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "tablet",
+    "price": 10,
+    "description": "sin description",
+    "code": "M2585",
+    "status": true,
+    "stock": 3,
+    "category": "category 1",
+    "thumbnails": [
+      "https://via.placeholder.com/150"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Iphone 8",
+    "price": "350",
+    "description": "64gb color white",
+    "code": "2365",
+    "status": true,
+    "stock": "-8",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 24,
+    "title": "Notebook DELL",
+    "price": "850",
+    "description": "8gb color white",
+    "code": "4589",
+    "status": true,
+    "stock": "6",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 25,
+    "title": "Notebook ACER",
+    "price": "960",
+    "description": "16gb Color black",
+    "code": "4589",
+    "status": true,
+    "stock": "6",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 26,
+    "title": "jhgjyhjh",
+    "price": "2",
+    "description": "njbjhhkj",
+    "code": "3222",
+    "status": true,
+    "stock": "5",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 27,
+    "title": "Shirt",
+    "price": "10",
+    "description": "color pink",
+    "code": "55255",
+    "status": true,
+    "stock": "5",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 28,
+    "title": "kkkk",
+    "price": "55",
+    "description": "cccc",
+    "code": "68",
+    "status": true,
+    "stock": "1",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 29,
+    "title": "ggggg",
+    "price": "336",
+    "description": "aaaa",
+    "code": "66",
+    "status": true,
+    "stock": "6",
+    "category": "category 1",
+    "thumbnails": {}
+  },
+  {
+    "id": 30,
+    "title": "nmdndnmd",
+    "price": "36",
+    "description": "m,dfmf,md",
+    "code": "55",
+    "status": true,
+    "stock": "0",
+    "category": "666",
+    "thumbnails": {}
+  },
+  {
+    "id": 31,
+    "title": "Shirt",
+    "price": "10",
+    "description": "color blue",
+    "code": "255",
+    "status": true,
+    "stock": "5",
+    "category": "category 1",
+    "thumbnails": {}
   }
 ]

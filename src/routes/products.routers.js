@@ -1,5 +1,5 @@
 import { Router } from "express";
-import { getProducts, getProductsById, addProduct } from "../controllers/product.controller.js"; 
+import { getProducts, getProductsById, addProduct, deleteProduct } from "../controllers/product.controller.js"; 
 
 
 const router = Router();
@@ -15,6 +15,9 @@ router.get('/:pid', getProductsById);
 
 // Endpoint to post add product 
 router.post('/add', addProduct);
+
+// Endpoint to delete product by id
+router.delete('/:pid', deleteProduct);
 
 
 export default router; 

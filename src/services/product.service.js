@@ -21,11 +21,17 @@ class ProductService {
         return limit ? this.products.slice(0, limit) : this.products;
     }
 
+    async getProductsRealTime(){
+        return this.products;
+    }
+
+    
+
     getProductsById(productId){
         return this.products.find(product => product.id == productId);
     }
 
-    addProduct(data){
+    async addProduct(data){
         if (!data.title || !data.price || !data.description || !data.code || !data.stock || !data.category) {
             throw new Error('All fields are required except thumbnail');
         }
@@ -50,6 +56,21 @@ class ProductService {
         this.saveProducts();
         return newProduct;
     }
+
+    //DELETE PRODUCT
+    async deleteProduct(productId){
+        const id = Number(productId);
+        const index = this.products.findIndex(product => product.id === id);
+        if (index === -1){
+            throw new Error(`Product with id ${productId} not found`);  
+        }
+        this.products.splice(index, 1);
+        this.saveProducts();
+        return { message: `Product with id ${productId} has been deleted` };
+            
+    }
+
+    
 }
 
 export default ProductService;
