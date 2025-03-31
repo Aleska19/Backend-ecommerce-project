@@ -5,7 +5,7 @@ import { addProduct } from "../controllers/views.controller.js";
 const router = Router();
 
 
-//Vita el home 
+//Vista el home 
 
 router.get("/home", getProducts) //vista de los productos en handlebars home 
 
@@ -17,3 +17,4 @@ router.post("/realTimeProducts/add", addProduct);
 
 export default router;
 
+ 

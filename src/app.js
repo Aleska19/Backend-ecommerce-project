@@ -4,6 +4,7 @@ import routerCart from "./routes/carts.router.js";
 import viewsRouter from "./routes/views.router.js";
 import handlebars from "express-handlebars"
 import path from "path"
+import { dbConection } from "./config/db.connection.js";
 
 
 const app = express();
@@ -34,6 +35,11 @@ app.use(express.static(path.join(path.resolve(), 'src/public')));
 app.use((req, res) => {
     res.status(404).json({ error: 'Ruta no encontrada' });
 });
+
+// 📌  conexion a la base de datos 
+dbConection() // conexion a la base de datos
+.then(() => console.log("Conectado a la base de datos"))
+.catch((error) => console.log(`Error de conexion a la base de datos: ${error}`)); // si no se conecta a la base de datos lanza un error
 
 
 export default app;
